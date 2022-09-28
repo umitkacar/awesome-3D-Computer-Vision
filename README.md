@@ -16,6 +16,12 @@
 - Photorealistic Rendering
 - Generative methods
 
+## COURSES
+
+- https://learning3d.github.io/index.html
+- https://learning3d.github.io/pages/schedule.html
+- https://web.stanford.edu/class/cs231a/course_notes.html
+- https://legacy.cplusplus.com/doc/tutorial/
 
 
 
