@@ -1,6 +1,9 @@
 # 3D Computer Vision
 
 - Real-Time SLAM
+  - https://silenceoverflow.github.io/Awesome-SLAM/
+  - [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras] (https://arxiv.org/pdf/2108.10869.pdf)
+  
 - 3D Reconstruction
 - Sensor Fusion
 - Active Depth Sensing
