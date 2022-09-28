@@ -22,6 +22,7 @@
 - https://learning3d.github.io/pages/schedule.html
 - https://web.stanford.edu/class/cs231a/course_notes.html
 - https://legacy.cplusplus.com/doc/tutorial/
+- https://www.robots.ox.ac.uk/~vgg/hzbook/
 
 
 
