@@ -19,6 +19,10 @@
 - Photorealistic Rendering
 - Generative methods
 
+# NeRF
+
+- https://github.com/kakaobrain/NeRF-Factory
+
 # TXT2IMAGE
 
 - https://dreamfusion3d.github.io/index.html
