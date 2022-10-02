@@ -20,6 +20,8 @@
 
 - https://dreamfusion3d.github.io/index.html
 - [DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION](https://arxiv.org/pdf/2209.14988.pdf)
+- https://makeavideo.studio/
+- [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA](https://makeavideo.studio/Make-A-Video.pdf)
 
 ## COURSES
 
