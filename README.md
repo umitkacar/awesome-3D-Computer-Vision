@@ -5,6 +5,9 @@
   - [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/pdf/2108.10869.pdf)
   
 - 3D Reconstruction
+  
+  - https://github.com/MrTornado24/IDE-3D
+
 - Sensor Fusion
 - Active Depth Sensing
 - Object, Body Tracking and Pose Estimation
