@@ -2,7 +2,7 @@
 
 - Real-Time SLAM
   - https://silenceoverflow.github.io/Awesome-SLAM/
-  - [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras] (https://arxiv.org/pdf/2108.10869.pdf)
+  - [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/pdf/2108.10869.pdf)
   
 - 3D Reconstruction
 - Sensor Fusion
@@ -15,6 +15,11 @@
 - Depth Estimation
 - Photorealistic Rendering
 - Generative methods
+
+# TXT2IMAGE
+
+- https://dreamfusion3d.github.io/index.html
+- [DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION](https://arxiv.org/pdf/2209.14988.pdf)
 
 ## COURSES
 
