@@ -24,6 +24,10 @@
 - https://legacy.cplusplus.com/doc/tutorial/
 - https://www.robots.ox.ac.uk/~vgg/hzbook/
 
+## GENERAL
+
+- https://ietresearch.onlinelibrary.wiley.com/toc/17519640/2022/16/7
+
 
 
 
