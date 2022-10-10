@@ -23,6 +23,10 @@
 
 - https://github.com/kakaobrain/NeRF-Factory
 
+# DIFFUSION MODELS
+
+- https://github.com/heejkoo/Awesome-Diffusion-Models
+
 # TXT2IMAGE
 
 - https://dreamfusion3d.github.io/index.html
