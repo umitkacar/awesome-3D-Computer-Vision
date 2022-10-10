@@ -25,7 +25,9 @@
 
 ## DIFFUSION MODELS
 
-- https://github.com/heejkoo/Awesome-Diffusion-Models
+- [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+- [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747.pdf)
+- https://github.com/aliborji/GFW
 
 ## TXT2IMAGE
 
