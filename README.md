@@ -19,15 +19,15 @@
 - Photorealistic Rendering
 - Generative methods
 
-# NeRF
+## NeRF
 
 - https://github.com/kakaobrain/NeRF-Factory
 
-# DIFFUSION MODELS
+## DIFFUSION MODELS
 
 - https://github.com/heejkoo/Awesome-Diffusion-Models
 
-# TXT2IMAGE
+## TXT2IMAGE
 
 - https://dreamfusion3d.github.io/index.html
 - [DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION](https://arxiv.org/pdf/2209.14988.pdf)
@@ -42,9 +42,17 @@
 - https://legacy.cplusplus.com/doc/tutorial/
 - https://www.robots.ox.ac.uk/~vgg/hzbook/
 
+## BIOMEDICAL
+
+- https://github.com/MIC-DKFZ/nnUNet
+
 ## GENERAL
 
 - https://ietresearch.onlinelibrary.wiley.com/toc/17519640/2022/16/7
+
+## LET'S FOLLOW
+
+- [Can segmentation models be trained with fully synthetically generated data?](https://arxiv.org/pdf/2209.08256.pdf)
 
 
 
