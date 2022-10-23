@@ -52,6 +52,10 @@
 
 - https://ietresearch.onlinelibrary.wiley.com/toc/17519640/2022/16/7
 
+## TOOLS
+
+- [PyMCubes](https://github.com/pmneila/PyMCubes)
+
 ## LET'S FOLLOW
 
 - [Can segmentation models be trained with fully synthetically generated data?](https://arxiv.org/pdf/2209.08256.pdf)
