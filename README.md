@@ -15,6 +15,7 @@
 - 3D Image Semantic Segmentation
 - 3D Key Point Estimation 
 - Surface Reconstruction
+  - https://en.wikipedia.org/wiki/Bilinear_interpolation#/media/File:Comparison_of_1D_and_2D_interpolation.svg
 - Depth Estimation
 - Photorealistic Rendering
 - Generative methods
@@ -55,6 +56,10 @@
 ## TOOLS
 
 - [PyMCubes](https://github.com/pmneila/PyMCubes)
+
+## DEPLOYMENT
+
+- https://github.com/ahkarami/Deep-Learning-in-Production
 
 ## LET'S FOLLOW
 
