@@ -16,6 +16,7 @@
 - 3D Key Point Estimation 
 - Surface Reconstruction
   - https://en.wikipedia.org/wiki/Bilinear_interpolation#/media/File:Comparison_of_1D_and_2D_interpolation.svg
+  - https://en.wikipedia.org/wiki/Marching_cubes
 - Depth Estimation
 - Photorealistic Rendering
 - Generative methods
