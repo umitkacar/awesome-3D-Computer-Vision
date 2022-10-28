@@ -22,6 +22,7 @@
 - Generative methods
 - Video interpolation
 https://replicate.com/google-research/frame-interpolation
+https://github.com/google-research/frame-interpolation
 
 ## NeRF
 
