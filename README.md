@@ -20,6 +20,8 @@
 - Depth Estimation
 - Photorealistic Rendering
 - Generative methods
+- Video interpolation
+https://replicate.com/google-research/frame-interpolation
 
 ## NeRF
 
