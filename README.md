@@ -49,6 +49,10 @@ https://github.com/google-research/frame-interpolation
 - https://legacy.cplusplus.com/doc/tutorial/
 - https://www.robots.ox.ac.uk/~vgg/hzbook/
 
+## BOOKS
+
+- https://szeliski.org/Book/
+
 ## BIOMEDICAL
 
 - https://github.com/MIC-DKFZ/nnUNet
