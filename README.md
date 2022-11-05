@@ -73,7 +73,7 @@ https://github.com/google-research/frame-interpolation
 
 - https://github.com/ahkarami/Deep-Learning-in-Production
 
-## LET'S FOLLOW
+## Generate synthetic data
 
 - [Can segmentation models be trained with fully synthetically generated data?](https://arxiv.org/pdf/2209.08256.pdf)
 
