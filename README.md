@@ -69,6 +69,8 @@ https://github.com/google-research/frame-interpolation
 
 - [PyMCubes](https://github.com/pmneila/PyMCubes)
 
+- [Pytorch3D](https://pytorch3d.org/)
+
 ## DEPLOYMENT
 
 - https://github.com/ahkarami/Deep-Learning-in-Production
