@@ -79,6 +79,16 @@ https://github.com/google-research/frame-interpolation
 
 - [Can segmentation models be trained with fully synthetically generated data?](https://arxiv.org/pdf/2209.08256.pdf)
 
+## AVATAR
+
+- https://www.flawlessai.com/
+
+- https://developers.google.com/ar
+
+- https://www.spark.ai/
+
+- https://www.bitmoji.com/
+
 
 
 
