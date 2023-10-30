@@ -1,5 +1,8 @@
 # 3D Computer Vision
 
+## Instance Segmentation
+- https://jonasschult.github.io/Mask3D/ 
+
 - Real-Time SLAM
   - https://silenceoverflow.github.io/Awesome-SLAM/
   - [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/pdf/2108.10869.pdf)
@@ -28,7 +31,7 @@ https://github.com/google-research/frame-interpolation
 
 - https://github.com/kakaobrain/NeRF-Factory
 
-## Vision Transfromers
+## Vision Transformers
 
 - https://github.com/cmhungsteve/Awesome-Transformer-Attention
 
